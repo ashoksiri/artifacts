@@ -1,0 +1,1 @@
+Please refer to the documentation provided [here](https://docs.microsoft.com/en-us/azure/blockchain/templates/hyperledger-fabric-consortium-azure-kubernetes-service) to know more on how to use the templates to deploy Hyperledger Fabric network components. 
